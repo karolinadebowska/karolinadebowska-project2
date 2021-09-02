@@ -1,3 +1,8 @@
+# Project Manager Board (2020)
+
+A web application to track progress when building a project built with React.js.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
